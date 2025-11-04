@@ -28,5 +28,4 @@ El objetivo es practicar el uso de **HTTP requests** y **consumo de APIs públic
 
 ---
 
-## 📚 Estructura del proyecto
 
